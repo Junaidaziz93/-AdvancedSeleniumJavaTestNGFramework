@@ -1,0 +1,10 @@
+{
+  "Input Field" : "Hello",
+  "Checkbox" : "1",
+  "Radio Button" : "White",
+  "Dropdown" : "Binary",
+  "Email" : "info@automatenow.io",
+  "Username": "testuser",
+  "Password": "password123",
+  "Message" : "This is a test."
+}
